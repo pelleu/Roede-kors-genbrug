@@ -1,0 +1,101 @@
+2021-12-14T00:00:02+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 1411
+2021-12-14T00:01:10+00:00 NOTICE product_submit.success :: updateStoreProduct :: #1411
+2021-12-14T00:01:10+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 1410
+2021-12-14T00:01:15+00:00 NOTICE product_submit.success :: updateStoreProduct :: #1410
+2021-12-14T00:01:41+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 1409
+2021-12-14T00:02:00+00:00 NOTICE product_submit.success :: updateStoreProduct :: #1409
+2021-12-14T00:02:00+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 1409
+2021-12-14T00:02:17+00:00 NOTICE product_submit.success :: updateStoreProduct :: #1409
+2021-12-14T00:03:25+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 1409
+2021-12-14T00:03:31+00:00 NOTICE product_submit.success :: updateStoreProduct :: #1409
+2021-12-14T00:03:49+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 1412
+2021-12-14T00:04:16+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 1320
+2021-12-14T00:04:36+00:00 NOTICE product_submit.success :: updateStoreProduct :: #1412
+2021-12-14T00:04:36+00:00 NOTICE product_submit.success :: updateStoreProduct :: #1320
+2021-12-14T00:04:39+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 1409
+2021-12-14T00:04:47+00:00 NOTICE product_submit.success :: updateStoreProduct :: #1409
+2021-12-14T00:04:50+00:00 NOTICE product.deleted :: deleted product 1409
+2021-12-14T00:08:13+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 1320
+2021-12-14T00:08:19+00:00 NOTICE product_submit.success :: updateStoreProduct :: #1320
+2021-12-14T00:08:48+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 1316
+2021-12-14T00:10:12+00:00 NOTICE product_submit.success :: updateStoreProduct :: #1316
+2021-12-14T00:10:19+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 1314
+2021-12-14T00:10:46+00:00 NOTICE product_submit.success :: updateStoreProduct :: #1314
+2021-12-14T00:14:22+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 1307
+2021-12-14T00:14:28+00:00 NOTICE product_submit.success :: updateStoreProduct :: #1307
+2021-12-14T00:15:12+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 100
+2021-12-14T00:15:57+00:00 NOTICE product_submit.success :: updateStoreProduct :: #100
+2021-12-14T00:43:52+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 100
+2021-12-14T00:45:54+00:00 NOTICE product_submit.success :: updateStoreProduct :: #100
+2021-12-14T01:37:28+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 1314
+2021-12-14T01:37:34+00:00 NOTICE product_submit.success :: updateStoreProduct :: #1314
+2021-12-14T01:37:38+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 1307
+2021-12-14T01:37:44+00:00 NOTICE product_submit.success :: updateStoreProduct :: #1307
+2021-12-14T02:05:20+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 61b0bac7affbe
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => 0ce22aac52
+            [name] => RoedeKorsThriftClub
+            [domain] => https://43visuals.dk/eksamensprojekt
+            [email_address] => 43visuals@gmail.com
+            [currency_code] => SEK
+            [money_format] => kr
+            [primary_locale] => da_DK
+            [timezone] => Europe/Copenhagen
+            [phone] => 27829121
+            [address] => Array
+                (
+                    [address1] => Store Kongensgade 25A, 1
+                    [city] => København K
+                    [province] => København K
+                    [postal_code] => 1264
+                    [country] => DK
+                    [country_code] => DK
+                    [phone] => 27829121
+                    [company] => RoedeKorsThriftClub
+                )
+
+        )
+
+)
+
+2021-12-14T02:05:52+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 61b0bac7affbe
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => 0ce22aac52
+            [name] => RoedeKorsThriftClub
+            [domain] => https://43visuals.dk/eksamensprojekt
+            [email_address] => 43visuals@gmail.com
+            [currency_code] => SEK
+            [money_format] => kr
+            [primary_locale] => da_DK
+            [timezone] => Europe/Copenhagen
+            [phone] => 27829121
+            [address] => Array
+                (
+                    [address1] => Store Kongensgade 25A, 1
+                    [city] => København K
+                    [province] => København K
+                    [postal_code] => 1264
+                    [country] => DK
+                    [country_code] => DK
+                    [phone] => 27829121
+                    [company] => RoedeKorsThriftClub
+                )
+
+        )
+
+)
+
+2021-12-14T19:24:42+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 1412
+2021-12-14T19:24:48+00:00 NOTICE product_submit.success :: updateStoreProduct :: #1412
+2021-12-14T19:30:21+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 1412
+2021-12-14T19:31:32+00:00 NOTICE product_submit.success :: updateStoreProduct :: #1412

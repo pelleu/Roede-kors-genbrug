@@ -1,0 +1,13 @@
+2021-12-02T20:42:46+00:00 CRITICAL Uncaught Error: Call to undefined function disk_total_space() in /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-content/plugins/duplicator/views/tools/diagnostics/inc.settings.php:9
+Stack trace:
+#0 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-content/plugins/duplicator/views/tools/diagnostics/information.php(230): include_once()
+#1 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-content/plugins/duplicator/views/tools/diagnostics/main.php(51): include('/customers/1/8/...')
+#2 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-content/plugins/duplicator/views/tools/controller.php(29): include('/customers/1/8/...')
+#3 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-content/plugins/duplicator/duplicator-main.php(201): include('/customers/1/8/...')
+#4 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-includes/class-wp-hook.php(303): duplicator_get_menu('')
+#5 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#6 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#7 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-admin/admin.php(259): do_action('duplicator_page...')
+#8 {main}
+  thrown i /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-content/plugins/duplicator/views/tools/diagnostics/inc.settings.php på linje 9
+

@@ -1,0 +1,16 @@
+2021-11-18T12:09:40+00:00 CRITICAL Uncaught Exception: Invalid post. in /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-content/plugins/elementor/core/settings/page/manager.php:101
+Stack trace:
+#0 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-content/plugins/elementor/core/base/document.php(1493): Elementor\Core\Settings\Page\Manager->ajax_before_save_settings(Array, NULL)
+#1 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-content/plugins/elementor/core/base/document.php(698): Elementor\Core\Base\Document->save_settings(Array)
+#2 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-content/plugins/elementor/core/kits/manager.php(236): Elementor\Core\Base\Document->update_settings(Array)
+#3 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-content/plugins/elementor/core/kits/manager.php(394): Elementor\Core\Kits\Manager->update_kit_settings_based_on_option('site_name', '')
+#4 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eks i /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-content/plugins/elementor/core/settings/page/manager.php på linje 101
+
+2021-11-18T12:10:10+00:00 CRITICAL Uncaught Exception: Invalid post. in /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-content/plugins/elementor/core/settings/page/manager.php:101
+Stack trace:
+#0 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-content/plugins/elementor/core/base/document.php(1493): Elementor\Core\Settings\Page\Manager->ajax_before_save_settings(Array, NULL)
+#1 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-content/plugins/elementor/core/base/document.php(698): Elementor\Core\Base\Document->save_settings(Array)
+#2 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-content/plugins/elementor/core/kits/manager.php(236): Elementor\Core\Base\Document->update_settings(Array)
+#3 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-content/plugins/elementor/core/kits/manager.php(398): Elementor\Core\Kits\Manager->update_kit_settings_based_on_option('site_descriptio...', '')
+#4 /customers/3/5/1/futuravisuals.dk/httpd.www/kea i /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-content/plugins/elementor/core/settings/page/manager.php på linje 101
+
