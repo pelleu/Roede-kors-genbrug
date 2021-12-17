@@ -1,0 +1,72 @@
+2021-11-25T12:45:30+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_post_id() in /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-content/plugins/ocean-extra/includes/metabox/metabox.php:1910
+Stack trace:
+#0 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-includes/class-wp-hook.php(305): OceanWP_Post_Metabox->body_class(Array)
+#1 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-includes/post-template.php(836): apply_filters('body_class', Array, Array)
+#3 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-includes/post-template.php(595): get_body_class(Array)
+#4 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-includes/template-canvas.php(21): body_class()
+#5 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-includes/template-loader.php(106): include('/custo i /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-content/plugins/ocean-extra/includes/metabox/metabox.php på linje 1910
+
+2021-11-25T12:45:44+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_post_id() in /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-content/plugins/ocean-extra/includes/metabox/metabox.php:1910
+Stack trace:
+#0 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-includes/class-wp-hook.php(305): OceanWP_Post_Metabox->body_class(Array)
+#1 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-includes/post-template.php(836): apply_filters('body_class', Array, Array)
+#3 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-includes/post-template.php(595): get_body_class(Array)
+#4 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-includes/template-canvas.php(21): body_class()
+#5 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-includes/template-loader.php(106): include('/custo i /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-content/plugins/ocean-extra/includes/metabox/metabox.php på linje 1910
+
+2021-11-25T12:45:48+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_post_id() in /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-content/plugins/ocean-extra/includes/metabox/metabox.php:1910
+Stack trace:
+#0 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-includes/class-wp-hook.php(305): OceanWP_Post_Metabox->body_class(Array)
+#1 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-includes/post-template.php(836): apply_filters('body_class', Array, Array)
+#3 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-includes/post-template.php(595): get_body_class(Array)
+#4 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-includes/template-canvas.php(21): body_class()
+#5 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-includes/template-loader.php(106): include('/custo i /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-content/plugins/ocean-extra/includes/metabox/metabox.php på linje 1910
+
+2021-11-25T12:45:48+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_post_id() in /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-content/plugins/ocean-extra/includes/metabox/metabox.php:1910
+Stack trace:
+#0 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-includes/class-wp-hook.php(305): OceanWP_Post_Metabox->body_class(Array)
+#1 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-includes/post-template.php(836): apply_filters('body_class', Array, Array)
+#3 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-includes/post-template.php(595): get_body_class(Array)
+#4 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-includes/template-canvas.php(21): body_class()
+#5 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-includes/template-loader.php(106): include('/custo i /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-content/plugins/ocean-extra/includes/metabox/metabox.php på linje 1910
+
+2021-11-25T12:46:22+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_post_id() in /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-content/plugins/ocean-extra/includes/metabox/metabox.php:1910
+Stack trace:
+#0 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-includes/class-wp-hook.php(305): OceanWP_Post_Metabox->body_class(Array)
+#1 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-includes/post-template.php(836): apply_filters('body_class', Array, Array)
+#3 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-includes/post-template.php(595): get_body_class(Array)
+#4 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-includes/template-canvas.php(21): body_class()
+#5 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-includes/template-loader.php(106): include('/custo i /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-content/plugins/ocean-extra/includes/metabox/metabox.php på linje 1910
+
+2021-11-25T12:46:23+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_post_id() in /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-content/plugins/ocean-extra/includes/metabox/metabox.php:1910
+Stack trace:
+#0 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-includes/class-wp-hook.php(305): OceanWP_Post_Metabox->body_class(Array)
+#1 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-includes/post-template.php(836): apply_filters('body_class', Array, Array)
+#3 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-includes/post-template.php(595): get_body_class(Array)
+#4 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-includes/template-canvas.php(21): body_class()
+#5 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-includes/template-loader.php(106): include('/custo i /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-content/plugins/ocean-extra/includes/metabox/metabox.php på linje 1910
+
+2021-11-25T12:46:29+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_post_id() in /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-content/plugins/ocean-extra/includes/metabox/metabox.php:1910
+Stack trace:
+#0 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-includes/class-wp-hook.php(305): OceanWP_Post_Metabox->body_class(Array)
+#1 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-includes/post-template.php(836): apply_filters('body_class', Array, Array)
+#3 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-includes/post-template.php(595): get_body_class(Array)
+#4 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-includes/template-canvas.php(21): body_class()
+#5 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-includes/template-loader.php(106): include('/custo i /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-content/plugins/ocean-extra/includes/metabox/metabox.php på linje 1910
+
+2021-11-25T12:46:44+00:00 CRITICAL Uncaught Error: Call to undefined function oceanwp_post_id() in /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-content/plugins/ocean-extra/includes/metabox/metabox.php:1910
+Stack trace:
+#0 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-includes/class-wp-hook.php(305): OceanWP_Post_Metabox->body_class(Array)
+#1 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-includes/plugin.php(189): WP_Hook->apply_filters(Array, Array)
+#2 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-includes/post-template.php(836): apply_filters('body_class', Array, Array)
+#3 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-includes/post-template.php(595): get_body_class(Array)
+#4 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-includes/template-canvas.php(21): body_class()
+#5 /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-includes/template-loader.php(106): include('/custo i /customers/3/5/1/futuravisuals.dk/httpd.www/kea/4sem/eksamensprojekt/wp-content/plugins/ocean-extra/includes/metabox/metabox.php på linje 1910
+

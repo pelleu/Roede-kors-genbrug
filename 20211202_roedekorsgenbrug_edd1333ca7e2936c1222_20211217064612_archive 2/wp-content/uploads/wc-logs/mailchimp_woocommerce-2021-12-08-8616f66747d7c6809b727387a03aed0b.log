@@ -1,0 +1,122 @@
+2021-12-08T15:11:11+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 61b0bac7affbe
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => 0ce22aac52
+            [name] => RoedeKorsThriftClub
+            [domain] => https://43visuals.dk/eksamensprojekt
+            [email_address] => 43visuals@gmail.com
+            [currency_code] => DKK
+            [money_format] => DKK
+            [primary_locale] => da_DK
+            [timezone] => Europe/Copenhagen
+            [phone] => 27829121
+            [address] => Array
+                (
+                    [address1] => Store Kongensgade 25A, 1
+                    [city] => København K
+                    [province] => København K
+                    [postal_code] => 1264
+                    [country] => DK
+                    [country_code] => DK
+                    [phone] => 27829121
+                    [company] => RoedeKorsThriftClub
+                )
+
+        )
+
+)
+
+2021-12-08T15:11:13+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 61b0bac7affbe
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => 0ce22aac52
+            [name] => RoedeKorsThriftClub
+            [domain] => https://43visuals.dk/eksamensprojekt
+            [email_address] => 43visuals@gmail.com
+            [currency_code] => DKK
+            [money_format] => DKK
+            [primary_locale] => da_DK
+            [timezone] => Europe/Copenhagen
+            [phone] => 27829121
+            [address] => Array
+                (
+                    [address1] => Store Kongensgade 25A, 1
+                    [city] => København K
+                    [province] => København K
+                    [postal_code] => 1264
+                    [country] => DK
+                    [country_code] => DK
+                    [phone] => 27829121
+                    [company] => RoedeKorsThriftClub
+                )
+
+        )
+
+)
+
+2021-12-08T15:11:16+00:00 NOTICE sync_store :: posting data :: Array
+(
+    [store_post] => Array
+        (
+            [id] => 61b0bac7affbe
+            [is_syncing] => 
+            [platform] => woocommerce
+            [list_id] => 0ce22aac52
+            [name] => RoedeKorsThriftClub
+            [domain] => https://43visuals.dk/eksamensprojekt
+            [email_address] => 43visuals@gmail.com
+            [currency_code] => DKK
+            [money_format] => DKK
+            [primary_locale] => da_DK
+            [timezone] => Europe/Copenhagen
+            [phone] => 27829121
+            [address] => Array
+                (
+                    [address1] => Store Kongensgade 25A, 1
+                    [city] => København K
+                    [province] => København K
+                    [postal_code] => 1264
+                    [country] => DK
+                    [country_code] => DK
+                    [phone] => 27829121
+                    [company] => RoedeKorsThriftClub
+                )
+
+        )
+
+)
+
+2021-12-08T15:11:17+00:00 NOTICE mailchimp-woocommerce-sync.started :: Starting Sync :: Wed, Dec 8, 2021 3:11 PM
+2021-12-08T15:11:17+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Coupons queued :: page 1
+2021-12-08T15:12:20+00:00 NOTICE sync.full_sync_manager.queue :: Starting PRODUCTS queueing.
+2021-12-08T15:12:20+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Products queued :: page 1
+2021-12-08T15:12:20+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Products queued :: page 2
+2021-12-08T15:12:22+00:00 NOTICE coupon_sync.completed :: Done with the coupon queueing.
+2021-12-08T15:12:22+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 100
+2021-12-08T15:12:22+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1307
+2021-12-08T15:12:22+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1314
+2021-12-08T15:12:22+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1316
+2021-12-08T15:12:22+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product queued :: obj_id 1320
+2021-12-08T15:12:24+00:00 NOTICE product_sync.completed :: Done with the product queuing
+2021-12-08T15:12:25+00:00 NOTICE product_submit.success :: addStoreProduct :: #100
+2021-12-08T15:12:26+00:00 NOTICE product_submit.success :: addStoreProduct :: #1307
+2021-12-08T15:12:26+00:00 NOTICE product_submit.success :: addStoreProduct :: #1314
+2021-12-08T15:12:27+00:00 NOTICE product_submit.success :: addStoreProduct :: #1316
+2021-12-08T15:12:27+00:00 NOTICE product_submit.success :: addStoreProduct :: #1320
+2021-12-08T15:12:32+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Process_Orders queued :: page 1
+2021-12-08T15:12:34+00:00 NOTICE order_sync.completed :: Done with the order queueing.
+2021-12-08T15:13:20+00:00 NOTICE sync.completed :: Finished Sync :: Wed, Dec 8, 2021 3:13 PM (total time: 00:02:03)
+2021-12-08T21:05:57+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 100
+2021-12-08T21:07:01+00:00 NOTICE product_submit.success :: updateStoreProduct :: #100
+2021-12-08T21:30:22+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 100
+2021-12-08T21:30:35+00:00 NOTICE product_submit.success :: updateStoreProduct :: #100
+2021-12-08T21:31:02+00:00 NOTICE action_scheduler.queue_job :: MailChimp_WooCommerce_Single_Product starts in 5 seconds :: obj_id 100
+2021-12-08T21:52:50+00:00 NOTICE product_submit.success :: updateStoreProduct :: #100

@@ -1,0 +1,72 @@
+2021-12-14T19:29:23+00:00 CRITICAL Uncaught Ocean_Extra_JSMin_UnterminatedStringException: JSMin: Unterminated String at byte 373: '<div class="product_meta wcdp-preview-btn-div"> in /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-content/plugins/ocean-extra/includes/jsmin.php:211
+Stack trace:
+#0 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-content/plugins/ocean-extra/includes/jsmin.php(150): Ocean_Extra_JSMin->action(2)
+#1 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-content/plugins/ocean-extra/includes/jsmin.php(84): Ocean_Extra_JSMin->min()
+#2 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-content/plugins/ocean-extra/ocean-extra.php(272): Ocean_Extra_JSMin::minify('add_action( 'wo...')
+#3 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-includes/class-wp-hook.php(303): Ocean_Extra::custom_js('add_action( 'wo...')
+#4 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-content/themes/oceanwp/footer.php(81): wp_footer()
+#8 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-includes/template.php(770): require_once('/customers/1/8/...')
+#9 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-includes/template.php(716): load_template('/customers/1/8/...', true, Array)
+#10 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#11 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-content/themes/oceanwp/page.php(57): get_footer()
+#12 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-includes/template-loader.php(106): include('/customers/1/8/...')
+#13 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-blog-header.php(19): require_once('/customers/1/8/...')
+#14 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/index.php(17): require('/customers/1/8/...')
+#15 {main}
+  thrown i /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-content/plugins/ocean-extra/includes/jsmin.php på linje 211
+
+2021-12-14T19:29:28+00:00 CRITICAL Uncaught Ocean_Extra_JSMin_UnterminatedStringException: JSMin: Unterminated String at byte 373: '<div class="product_meta wcdp-preview-btn-div"> in /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-content/plugins/ocean-extra/includes/jsmin.php:211
+Stack trace:
+#0 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-content/plugins/ocean-extra/includes/jsmin.php(150): Ocean_Extra_JSMin->action(2)
+#1 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-content/plugins/ocean-extra/includes/jsmin.php(84): Ocean_Extra_JSMin->min()
+#2 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-content/plugins/ocean-extra/ocean-extra.php(272): Ocean_Extra_JSMin::minify('add_action( 'wo...')
+#3 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-includes/class-wp-hook.php(303): Ocean_Extra::custom_js('add_action( 'wo...')
+#4 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-content/themes/oceanwp/footer.php(81): wp_footer()
+#8 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-includes/template.php(770): require_once('/customers/1/8/...')
+#9 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-includes/template.php(716): load_template('/customers/1/8/...', true, Array)
+#10 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#11 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-content/plugins/woocommerce/templates/archive-product.php(105): get_footer('shop')
+#12 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/customers/1/8/...')
+#13 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-content/plugins/woocommerce/templates/taxonomy-product-cat.php(22): wc_get_template('archive-product...')
+#14 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-includes/template-loader.php(106): include('/customers/1/8/...')
+#15 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-blog-header.php(19): require_once('/customers/1/8/...')
+#16 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/index.php(17): require('/customers/1/8/...')
+#17 {main}
+  thrown i /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-content/plugins/ocean-extra/includes/jsmin.php på linje 211
+
+2021-12-14T19:29:32+00:00 CRITICAL Uncaught Ocean_Extra_JSMin_UnterminatedStringException: JSMin: Unterminated String at byte 373: '<div class="product_meta wcdp-preview-btn-div"> in /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-content/plugins/ocean-extra/includes/jsmin.php:211
+Stack trace:
+#0 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-content/plugins/ocean-extra/includes/jsmin.php(150): Ocean_Extra_JSMin->action(2)
+#1 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-content/plugins/ocean-extra/includes/jsmin.php(84): Ocean_Extra_JSMin->min()
+#2 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-content/plugins/ocean-extra/ocean-extra.php(272): Ocean_Extra_JSMin::minify('add_action( 'wo...')
+#3 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-includes/class-wp-hook.php(303): Ocean_Extra::custom_js('add_action( 'wo...')
+#4 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#5 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#6 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-includes/general-template.php(3031): do_action('wp_footer')
+#7 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-content/themes/oceanwp/footer.php(81): wp_footer()
+#8 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-includes/template.php(770): require_once('/customers/1/8/...')
+#9 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-includes/template.php(716): load_template('/customers/1/8/...', true, Array)
+#10 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-includes/general-template.php(92): locate_template(Array, true, true, Array)
+#11 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-content/plugins/woocommerce/templates/single-product.php(60): get_footer('shop')
+#12 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-includes/template-loader.php(106): include('/customers/1/8/...')
+#13 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-blog-header.php(19): require_once('/customers/1/8/...')
+#14 /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/index.php(17): require('/customers/1/8/...')
+#15 {main}
+  thrown i /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-content/plugins/ocean-extra/includes/jsmin.php på linje 211
+
+2021-12-14T19:41:20+00:00 CRITICAL Cannot redeclare add_loop_custom_button() (previously declared in /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-content/themes/oceanwp-child/functions.php:29) i /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-content/themes/oceanwp-child/functions.php på linje 43
+
+2021-12-14T19:41:25+00:00 CRITICAL Cannot redeclare add_loop_custom_button() (previously declared in /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-content/themes/oceanwp-child/functions.php:29) i /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-content/themes/oceanwp-child/functions.php på linje 43
+
+2021-12-14T19:41:25+00:00 CRITICAL Cannot redeclare add_loop_custom_button() (previously declared in /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-content/themes/oceanwp-child/functions.php:29) i /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-content/themes/oceanwp-child/functions.php på linje 43
+
+2021-12-14T19:41:27+00:00 CRITICAL Cannot redeclare add_loop_custom_button() (previously declared in /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-content/themes/oceanwp-child/functions.php:29) i /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-content/themes/oceanwp-child/functions.php på linje 43
+
+2021-12-14T19:41:30+00:00 CRITICAL Cannot redeclare add_loop_custom_button() (previously declared in /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-content/themes/oceanwp-child/functions.php:29) i /customers/1/8/b/43visuals.dk/httpd.www/eksamensprojekt/wp-content/themes/oceanwp-child/functions.php på linje 43
+
